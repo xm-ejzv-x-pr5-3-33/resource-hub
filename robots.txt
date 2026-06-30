@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xm-ejzv-x-pr5-3-33.github.io/resource-hub/sitemap.xml
